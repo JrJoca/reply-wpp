@@ -1,0 +1,61 @@
+header {
+    background-color: #EEEEEE;
+    min-height: 64px;
+}
+
+header img,
+.list-group img {
+    height: 50px;
+    margin-right: 10px;
+}
+
+.badge-sucess {
+    background-color: #09d261;
+}
+
+h6 {
+    margin: 0;
+}
+
+section header {
+    border-bottom: #dbdbdb 1px solid;
+}
+
+header img {
+    margin-left: 16px;
+}
+
+.list-group-item {
+    border-radius: 0!important;
+    border-left: none;
+    border-right: none;
+    border-color: #F8F8F8;
+}
+
+main {
+    background-color: #e5ddd5;
+    min-height: calc(100vh - 121px)
+}
+
+#search {
+    background-color: #F8F8F8;
+    min-height: 50px;
+}
+
+#painel-left {
+    border-right: #dbdbdb 1px solid;
+    color: #4d4d44;
+}
+
+#panel-left small {
+    color: #9b9b9b;
+}
+
+#timeago {
+    color: #999;
+    font-size: .8em;
+}
+
+input {
+    background-color: black;
+}
